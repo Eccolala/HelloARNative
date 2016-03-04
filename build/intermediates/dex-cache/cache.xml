@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\pre-dexed\arm\debug\internal_impl-20.0.0_72b2f32fdedc95cde6606158d78c3b342e83b42e.jar" />
+    </item>
+    <item
+        jar="E:\Android\Android_Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\pre-dexed\arm\debug\support-annotations-20.0.0_a8fd5ebb6ec73d26c8f025e5c9076f7d1e6d3825.jar" />
+    </item>
+    <item
+        jar="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\pre-dexed\arm\debug\com.android.support-support-v4-20.0.0_7b00ceef88cf55224ae7ceaf561eac38c74590a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\pre-dexed\arm\debug\com.android.support-appcompat-v7-20.0.0_7efc04d4c9918c72faf5d6a7f9e9e3b5498aa35e.jar" />
+    </item>
+    <item
+        jar="C:\Users\76488\Downloads\EasyARSDKSamples\package\Android\libs\EasyAR.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1df2880d65d8014207e40d5af0cd8c0367c266b">
+        <dex dex="C:\Users\76488\Downloads\EasyARSDKSamples\Android\HelloARNative\app\build\intermediates\pre-dexed\arm\debug\EasyAR_bab314c2565fba1d28f91fdfbb36b4c6871dcb01.jar" />
+    </item>
+
+</items>
